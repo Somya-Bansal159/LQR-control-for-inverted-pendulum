@@ -1,8 +1,9 @@
 # LQR-control-for-inverted-pendulum
 ## Implemented LQR control on a cartpole inverted pendulum in OpenGL Glut in C++.
 ## Features:
-- User can select if he wants to play a game for balancing the pendulum by bombarding balls on a cartpole.
-- Or the user can view LQR control acting on a cartpole pendulum.
+- User can  play a game for balancing the pendulum by bombarding balls on a cartpole.
+- Also he can view LQR control acting on a cartpole pendulum.
+- Both the things are running side by side for comparison between human control and LQR control.
 
 ## How to Run?
 - Install OpenGL Glut library.
