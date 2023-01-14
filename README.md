@@ -10,4 +10,4 @@
 - Clone the repository and run the MiniProject.cbp in your IDE.
 - Run the main.cpp file and You will see the results :)
 
-## Note: You can also visualise a working LQR in matplotlib_LQR.py
+#### Note: You can also visualise [a free fall simulation of a pendulum](matplotlib_freefall.py) and [a working LQR](matplotlib_LQR.py) in matplotlib.
